@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1668512519 source:c:\users\lenovo\onedrive\documents\kuliah-semester_3\matriks & ruang vektor\tugas\program-matriks\main.cpp
+	<iostream>
+	<windows.h>
+
