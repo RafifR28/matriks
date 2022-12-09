@@ -17,6 +17,7 @@ int main()
     cout << "Masukkan elemen matriks pertama: " << endl;
     for (int i = 0; i < baris; i++)
     {
+        cout << "Baris ke-" << i+1;
         for (int j = 0; j < kolom; j++)
         {
             cout << "Masukkan Elemen Matriks A [" << i << "][" << j << "] : ";
@@ -28,6 +29,7 @@ int main()
     cout << "Masukkan elemen matriks kedua: " << endl;
     for (int i = 0; i < baris; i++)
     {
+        cout << "Baris ke-" << i+1;
         for (int j = 0; j < kolom; j++)
         {
             cout << "Masukkan Elemen Matriks A [" << i << "][" << j << "] : ";
